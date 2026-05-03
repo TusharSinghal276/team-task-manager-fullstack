@@ -116,7 +116,7 @@ Deploy on Railway
 
 6. Deploy the project.
 
-Notes
+Note
 -----
 
 - The database file is created automatically at data/db.json on first run.
